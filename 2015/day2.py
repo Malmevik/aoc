@@ -3,7 +3,7 @@
 select = input("1 or 2: ")
 
 if select == "1":
-    with open("input_day2_01.txt") as f:
+    with open("input_day2.txt") as f:
         lines = f.read().split("\n")
         total = 0
         for line in lines:
@@ -14,7 +14,7 @@ if select == "1":
         print(total)  
 
 if select == "2":
-    with open("input_day2_01.txt") as f:
+    with open("input_day2.txt") as f:
         lines = f.read().split("\n")
         total = 0
 

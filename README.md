@@ -1,2 +1,3 @@
 # aoc
-Repository for AOC
+Repository for Advent of Code
+
